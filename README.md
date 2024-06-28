@@ -176,14 +176,6 @@ int main(void){
     <td align="center">상태</td>
   </tr>
   <tr>
-    <td align="center">00</td>
-    <td align="center" width="300px">백준 익히기</td>
-    <td align="center" width="110px"><a href="https://github.com/99MinSu/URECA-Algorithm-Study/tree/main/00_Baekjoon">바로가기</a></td>
-    <td align="center" width="120px">5</td>
-    <td align="center" width="120px">6</td>
-    <td align="center" width="70px"></td>
-  </tr>
-  <tr>
     <td align="center">01</td>
     <td align="center" width="300px">정렬 1</td>
     <td align="center" width="110px"><a href="https://github.com/99MinSu/URECA-Algorithm-Study/tree/main/01_Sort1">바로가기</a></td>
