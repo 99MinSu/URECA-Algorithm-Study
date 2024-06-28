@@ -178,7 +178,7 @@ int main(void){
   <tr>
     <td align="center">00</td>
     <td align="center" width="300px">백준 익히기</td>
-    <td align="center" width="110px"><a href="https://github.com/ghdcksgml1/Algorithm_Study/tree/main/00_Baekjoon">바로가기</a></td>
+    <td align="center" width="110px"><a href="https://github.com/99MinSu/URECA-Algorithm-Study/tree/main/00_Baekjoon">바로가기</a></td>
     <td align="center" width="120px">5</td>
     <td align="center" width="120px">6</td>
     <td align="center" width="70px"></td>
@@ -186,7 +186,7 @@ int main(void){
   <tr>
     <td align="center">01</td>
     <td align="center" width="300px">정렬 1</td>
-    <td align="center" width="110px"><a href="https://github.com/ghdcksgml1/Algorithm_Study/tree/main/01_Sort1">바로가기</a></td>
+    <td align="center" width="110px"><a href="https://github.com/99MinSu/URECA-Algorithm-Study/tree/main/01_Sort1">바로가기</a></td>
     <td align="center" width="120px">3</td>
     <td align="center" width="120px">5</td>
     <td align="center" width="80px"></td>
@@ -194,7 +194,7 @@ int main(void){
   <tr>
     <td align="center">02</td>
     <td align="center" width="300px">정렬 2 (sort함수 사용)</td>
-    <td align="center" width="110px"><a href="https://github.com/ghdcksgml1/Algorithm_Study/tree/main/02_Sort2">바로가기</a></td>
+    <td align="center" width="110px"><a href="https://github.com/99MinSu/URECA-Algorithm-Study/tree/main/02_Sort2">바로가기</a></td>
     <td align="center" width="120px">3</td>
     <td align="center" width="120px">5</td>
     <td align="center" width="80px"></td>
@@ -202,14 +202,14 @@ int main(void){
   <tr>
     <td align="center">03</td>
     <td align="center" width="300px">수학</td>
-    <td align="center" width="110px"><a href="https://github.com/ghdcksgml1/Algorithm_Study/tree/main/03_수학">바로가기</a></td>
+    <td align="center" width="110px"><a href="https://github.com/99MinSu/URECA-Algorithm-Study/tree/main/03_수학">바로가기</a></td>
     <td align="center" width="120px">5</td>
     <td align="center" width="120px">5</td>
     <td align="center" width="80px"></td>
   </tr><tr>
     <td align="center">04</td>
     <td align="center" width="300px">에라토스테네스의 체</td>
-    <td align="center" width="110px"><a href="https://github.com/ghdcksgml1/Algorithm_Study/tree/main/04_에라토스테네스의%20체">바로가기</a></td>
+    <td align="center" width="110px"><a href="https://github.com/99MinSu/URECA-Algorithm-Study/tree/main/04_에라토스테네스의%20체">바로가기</a></td>
     <td align="center" width="120px">5</td>
     <td align="center" width="120px">5</td>
     <td align="center" width="80px"></td>
@@ -217,7 +217,7 @@ int main(void){
   <tr>
     <td align="center">05</td>
     <td align="center" width="300px">자료구조 1 (스택,큐,덱)</td>
-    <td align="center" width="110px"><a href="https://github.com/ghdcksgml1/Algorithm_Study/tree/main/05_자료구조1">바로가기</a></td>
+    <td align="center" width="110px"><a href="https://github.com/99MinSu/URECA-Algorithm-Study/tree/main/05_자료구조1">바로가기</a></td>
     <td align="center" width="120px">7</td>
     <td align="center" width="120px">7</td>
     <td align="center" width="80px"></td>
@@ -225,7 +225,7 @@ int main(void){
   <tr>
     <td align="center">06</td>
     <td align="center" width="300px">자료구조 2 (우선순위 큐)</td>
-    <td align="center" width="110px"><a href="https://github.com/ghdcksgml1/Algorithm_Study/tree/main/06_자료구조2">바로가기</a></td>
+    <td align="center" width="110px"><a href="https://github.com/99MinSu/URECA-Algorithm-Study/tree/main/06_자료구조2">바로가기</a></td>
     <td align="center" width="120px">4</td>
     <td align="center" width="120px">4</td>
     <td align="center" width="80px"></td>
@@ -233,7 +233,7 @@ int main(void){
   <tr>
     <td align="center">07</td>
     <td align="center" width="300px">동적 프로그래밍 1</td>
-    <td align="center" width="110px"><a href="https://github.com/ghdcksgml1/Algorithm_Study/tree/main/07_동적%20프로그래밍1">바로가기</a></td>
+    <td align="center" width="110px"><a href="https://github.com/99MinSu/URECA-Algorithm-Study/tree/main/07_동적%20프로그래밍1">바로가기</a></td>
     <td align="center" width="120px">6</td>
     <td align="center" width="120px">7</td>
     <td align="center" width="80px"></td>
@@ -241,7 +241,7 @@ int main(void){
   <tr>
     <td align="center">08</td>
     <td align="center" width="300px">동적 프로그래밍 2</td>
-    <td align="center" width="110px"><a href="https://github.com/ghdcksgml1/Algorithm_Study/tree/main/08_동적%20프로그래밍2">바로가기</a></td>
+    <td align="center" width="110px"><a href="https://github.com/99MinSu/URECA-Algorithm-Study/tree/main/08_동적%20프로그래밍2">바로가기</a></td>
     <td align="center" width="120px">7</td>
     <td align="center" width="120px">8</td>
     <td align="center" width="80px"></td>
@@ -249,7 +249,7 @@ int main(void){
   <tr>
     <td align="center">09</td>
     <td align="center" width="300px">투 포인터</td>
-    <td align="center" width="110px"><a href="https://github.com/ghdcksgml1/Algorithm_Study/tree/main/09_투%20포인터">바로가기</a></td>
+    <td align="center" width="110px"><a href="https://github.com/99MinSu/URECA-Algorithm-Study/tree/main/09_투%20포인터">바로가기</a></td>
     <td align="center" width="120px">6</td>
     <td align="center" width="120px">7</td>
     <td align="center" width="80px"></td>
@@ -257,7 +257,7 @@ int main(void){
   <tr>
     <td align="center">10</td>
     <td align="center" width="300px">완전 탐색</td>
-    <td align="center" width="110px"><a href="https://github.com/ghdcksgml1/Algorithm_Study/tree/main/10_완전%20탐색">바로가기</a></td>
+    <td align="center" width="110px"><a href="https://github.com/99MinSu/URECA-Algorithm-Study/tree/main/10_완전%20탐색">바로가기</a></td>
     <td align="center" width="120px">6</td>
     <td align="center" width="120px">7</td>
     <td align="center" width="80px"></td>
@@ -265,7 +265,7 @@ int main(void){
   <tr>
     <td align="center">11</td>
     <td align="center" width="300px">이분 탐색</td>
-    <td align="center" width="110px"><a href="https://github.com/ghdcksgml1/Algorithm_Study/tree/main/11_이분%20탐색">바로가기</a></td>
+    <td align="center" width="110px"><a href="https://github.com/99MinSu/URECA-Algorithm-Study/tree/main/11_이분%20탐색">바로가기</a></td>
     <td align="center" width="120px">11</td>
     <td align="center" width="120px">11</td>
     <td align="center" width="80px"></td>
@@ -273,7 +273,7 @@ int main(void){
   <tr>
     <td align="center">12</td>
     <td align="center" width="300px">백트래킹</td>
-    <td align="center" width="110px"><a href="https://github.com/ghdcksgml1/Algorithm_Study/tree/main/12_백트래킹">바로가기</a></td>
+    <td align="center" width="110px"><a href="https://github.com/99MinSu/URECA-Algorithm-Study/tree/main/12_백트래킹">바로가기</a></td>
     <td align="center" width="120px">14</td>
     <td align="center" width="120px">14</td>
     <td align="center" width="80px"></td>
@@ -281,7 +281,7 @@ int main(void){
   <tr>
     <td align="center">13</td>
     <td align="center" width="300px">분할 정복</td>
-    <td align="center" width="110px"><a href="https://github.com/ghdcksgml1/Algorithm_Study/tree/main/13_분할%20정복">바로가기</a></td>
+    <td align="center" width="110px"><a href="https://github.com/99MinSu/URECA-Algorithm-Study/tree/main/13_분할%20정복">바로가기</a></td>
     <td align="center" width="120px">8</td>
     <td align="center" width="120px">8</td>
     <td align="center" width="80px"></td>
@@ -289,7 +289,7 @@ int main(void){
   <tr>
     <td align="center">14</td>
     <td align="center" width="300px">문자열 1</td>
-    <td align="center" width="110px"><a href="https://github.com/ghdcksgml1/Algorithm_Study/tree/main/14_문자열%201">바로가기</a></td>
+    <td align="center" width="110px"><a href="https://github.com/99MinSu/URECA-Algorithm-Study/tree/main/14_문자열%201">바로가기</a></td>
     <td align="center" width="120px">10</td>
     <td align="center" width="120px">10</td>
     <td align="center" width="80px"></td>
@@ -297,7 +297,7 @@ int main(void){
   <tr>
     <td align="center">15</td>
     <td align="center" width="300px">문자열 2</td>
-    <td align="center" width="110px"><a href="https://github.com/ghdcksgml1/Algorithm_Study/tree/main/15_문자열%202">바로가기</a></td>
+    <td align="center" width="110px"><a href="https://github.com/99MinSu/URECA-Algorithm-Study/tree/main/15_문자열%202">바로가기</a></td>
     <td align="center" width="120px">9</td>
     <td align="center" width="120px">9</td>
     <td align="center" width="80px"></td>
@@ -305,7 +305,7 @@ int main(void){
   <tr>
     <td align="center">16</td>
     <td align="center" width="300px">구현,시뮬레이션</td>
-    <td align="center" width="110px"><a href="https://github.com/ghdcksgml1/Algorithm_Study/tree/main/16_%EA%B5%AC%ED%98%84%2C%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%EC%85%98">바로가기</a></td>
+    <td align="center" width="110px"><a href="https://github.com/99MinSu/URECA-Algorithm-Study/tree/main/16_%EA%B5%AC%ED%98%84%2C%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%EC%85%98">바로가기</a></td>
     <td align="center" width="120px">10</td>
     <td align="center" width="120px">10</td>
     <td align="center" width="80px"></td>
@@ -313,7 +313,7 @@ int main(void){
   <tr>
     <td align="center">17</td>
     <td align="center" width="300px">구현,시뮬레이션 (삼성 SW 역량테스트 기출)</td>
-    <td align="center" width="110px"><a href="https://github.com/ghdcksgml1/Algorithm_Study/tree/main/17_%EA%B5%AC%ED%98%84%2C%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%EC%85%98%20(%EC%82%BC%EC%84%B1%20SW%20%EC%97%AD%EB%9F%89%ED%85%8C%EC%8A%A4%ED%8A%B8%20%EA%B8%B0%EC%B6%9C)">바로가기</a></td>
+    <td align="center" width="110px"><a href="https://github.com/99MinSu/URECA-Algorithm-Study/tree/main/17_%EA%B5%AC%ED%98%84%2C%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%EC%85%98%20(%EC%82%BC%EC%84%B1%20SW%20%EC%97%AD%EB%9F%89%ED%85%8C%EC%8A%A4%ED%8A%B8%20%EA%B8%B0%EC%B6%9C)">바로가기</a></td>
     <td align="center" width="120px">9</td>
     <td align="center" width="120px">9</td>
     <td align="center" width="80px"></td>
@@ -321,7 +321,7 @@ int main(void){
   <tr>
     <td align="center">18</td>
     <td align="center" width="300px">최단거리 (다익스트라)</td>
-    <td align="center" width="110px"><a href="https://github.com/ghdcksgml1/Algorithm_Study/tree/main/18_%EC%B5%9C%EB%8B%A8%EA%B1%B0%EB%A6%AC%20(%EB%8B%A4%EC%9D%B5%EC%8A%A4%ED%8A%B8%EB%9D%BC)">바로가기</a></td>
+    <td align="center" width="110px"><a href="https://github.com/99MinSu/URECA-Algorithm-Study/tree/main/18_%EC%B5%9C%EB%8B%A8%EA%B1%B0%EB%A6%AC%20(%EB%8B%A4%EC%9D%B5%EC%8A%A4%ED%8A%B8%EB%9D%BC)">바로가기</a></td>
     <td align="center" width="120px"></td>
     <td align="center" width="120px"></td>
     <td align="center" width="80px">준비중..</td>
@@ -329,7 +329,7 @@ int main(void){
   <tr>
     <td align="center">19</td>
     <td align="center" width="300px">위상정렬</td>
-    <td align="center" width="110px"><a href="https://github.com/ghdcksgml1/Algorithm_Study/tree/main/19_%EC%9C%84%EC%83%81%EC%A0%95%EB%A0%AC">바로가기</a></td>
+    <td align="center" width="110px"><a href="https://github.com/99MinSu/URECA-Algorithm-Study/tree/main/19_%EC%9C%84%EC%83%81%EC%A0%95%EB%A0%AC">바로가기</a></td>
     <td align="center" width="120px"></td>
     <td align="center" width="120px"></td>
     <td align="center" width="80px">준비중..</td>
@@ -337,7 +337,7 @@ int main(void){
   <tr>
     <td align="center">20</td>
     <td align="center" width="300px">분리 집합 (유니언 파인드)</td>
-    <td align="center" width="110px"><a href="https://github.com/ghdcksgml1/Algorithm_Study/tree/main/20_%EB%B6%84%EB%A6%AC%20%EC%A7%91%ED%95%A9(%EC%9C%A0%EB%8B%88%EC%96%B8%20%ED%8C%8C%EC%9D%B8%EB%93%9C)">바로가기</a></td>
+    <td align="center" width="110px"><a href="https://github.com/99MinSu/URECA-Algorithm-Study/tree/main/20_%EB%B6%84%EB%A6%AC%20%EC%A7%91%ED%95%A9(%EC%9C%A0%EB%8B%88%EC%96%B8%20%ED%8C%8C%EC%9D%B8%EB%93%9C)">바로가기</a></td>
     <td align="center" width="120px"></td>
     <td align="center" width="120px"></td>
     <td align="center" width="80px">준비중..</td>
@@ -345,7 +345,7 @@ int main(void){
   <tr>
     <td align="center">21</td>
     <td align="center" width="300px">트라이</td>
-    <td align="center" width="110px"><a href="https://github.com/ghdcksgml1/Algorithm_Study/tree/main/21_%ED%8A%B8%EB%9D%BC%EC%9D%B4">바로가기</a></td>
+    <td align="center" width="110px"><a href="https://github.com/99MinSu/URECA-Algorithm-Study/tree/main/21_%ED%8A%B8%EB%9D%BC%EC%9D%B4">바로가기</a></td>
     <td align="center" width="120px"></td>
     <td align="center" width="120px"></td>
     <td align="center" width="80px">준비중..</td>
@@ -353,7 +353,7 @@ int main(void){
   <tr>
     <td align="center">22</td>
     <td align="center" width="300px">동적 프로그래밍 트리</td>
-    <td align="center" width="110px"><a href="https://github.com/ghdcksgml1/Algorithm_Study/tree/main/22_%EB%8F%99%EC%A0%81%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%20%ED%8A%B8%EB%A6%AC">바로가기</a></td>
+    <td align="center" width="110px"><a href="https://github.com/99MinSu/URECA-Algorithm-Study/tree/main/22_%EB%8F%99%EC%A0%81%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%20%ED%8A%B8%EB%A6%AC">바로가기</a></td>
     <td align="center" width="120px"></td>
     <td align="center" width="120px"></td>
     <td align="center" width="80px">준비중..</td>
@@ -361,7 +361,7 @@ int main(void){
   <tr>
     <td align="center">23</td>
     <td align="center" width="300px">최소 스패닝 트리</td>
-    <td align="center" width="110px"><a href="https://github.com/ghdcksgml1/Algorithm_Study/tree/main/23_%EC%B5%9C%EC%86%8C%20%EC%8A%A4%ED%8C%A8%EB%8B%9D%20%ED%8A%B8%EB%A6%AC">바로가기</a></td>
+    <td align="center" width="110px"><a href="https://github.com/99MinSu/URECA-Algorithm-Study/tree/main/23_%EC%B5%9C%EC%86%8C%20%EC%8A%A4%ED%8C%A8%EB%8B%9D%20%ED%8A%B8%EB%A6%AC">바로가기</a></td>
     <td align="center" width="120px"></td>
     <td align="center" width="120px"></td>
     <td align="center" width="80px">준비중..</td>
