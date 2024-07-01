@@ -2,7 +2,7 @@
 
 ## ⭐️ 목표 - 알고리즘 별 개념학습과 관련 문제풀이 및 골드티어 달성!
 
-📌 정기 회의 : 매주 월요일, 목요일 20시
+📌 정기 회의 : 매주 화요일, 금요일 20시
 
 📌 마감 기한 : 매일 오후 23:59분
 
@@ -54,7 +54,7 @@
     </tr>
     <tr>
       <td align="center"><a href="https://solved.ac/sms2358"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=sms2358" /></a></td>
-      <td align="center"><a href="https://solved.ac/"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=" /></a></td>
+      <td align="center"><a href="https://solved.ac/seungheee"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=" /></a></td>
       <td align="center"><a href="https://solved.ac/haely12"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=haely12" /></a></td>
       <td align="center"><a href="https://solved.ac/dlalstn1023"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=dlalstn1023" /></a></td>
   </tr>
