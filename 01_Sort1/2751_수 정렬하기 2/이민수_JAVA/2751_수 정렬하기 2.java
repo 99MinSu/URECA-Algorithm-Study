@@ -80,3 +80,35 @@ public class Main {
 // 이 문제는 Arrays.sort는 무조건 시간초과가 난다.
 // 시간 초과가 자꾸 나서 StringBuilder도 써보고 했지만 계속 났다
 // sorted 배열 선언을 merge 함수 안에 해줬는데 main 함수로 빼주니 성공했다!! (무슨 차이가 있는거지..)
+import java.io.InputStreamReader;
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.util.ArrayList;
+import java.util.Collections;
+ 
+public class Main {
+	public static void main(String[] args) throws IOException {
+    
+		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+		StringBuilder sb = new StringBuilder();
+		
+		int N = Integer.parseInt(br.readLine());
+		
+		// list 계열 중 하나를 쓰면 된다.
+		ArrayList<Integer> list = new ArrayList<>();
+		
+		for(int i = 0; i < N; i++) {
+			list.add(Integer.parseInt(br.readLine()));
+		}
+		
+		Collections.sort(list);
+		
+		for(int value : list) {
+			sb.append(value).append('\n');
+		}
+		System.out.println(sb);
+	}
+}
+// 언어 : JAVA , (성공/실패) : 1/6 , 메모리 : 131064 KB , 시간 : 1336 ms
+// 다른 풀이를 찾아보다가 리스트의 Collections.sort(Timsort라고 하고 병합정렬과 삽입정령 알고리즘을 사용한다고 한다)를 써도 된다 길래 써봤더니 통과했다. 
+// 병합정렬로 푸는 게 더 빠르긴 하다. (함수 쓰는 게 훨씬 편하긴하다..)
