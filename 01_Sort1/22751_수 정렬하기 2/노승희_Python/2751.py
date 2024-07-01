@@ -1,3 +1,4 @@
+# 언어 : Python , (성공/실패) : 1/2 , 메모리 : 98048 KB , 시간 : 4344 ms
 import sys
 input = sys.stdin.readline
 sys.setrecursionlimit(10**6)

@@ -1,3 +1,4 @@
+# 언어 : Python , (성공/실패) : 1/6 , 메모리 : 31120 KB , 시간 : 7908 ms
 import sys
 input = sys.stdin.readline
 
