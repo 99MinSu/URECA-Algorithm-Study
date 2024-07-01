@@ -54,7 +54,7 @@
     </tr>
     <tr>
       <td align="center"><a href="https://solved.ac/sms2358"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=sms2358" /></a></td>
-      <td align="center"><a href="https://solved.ac/seungheee"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=" /></a></td>
+      <td align="center"><a href="https://solved.ac/seungheee"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=seungheee" /></a></td>
       <td align="center"><a href="https://solved.ac/haely12"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=haely12" /></a></td>
       <td align="center"><a href="https://solved.ac/dlalstn1023"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=dlalstn1023" /></a></td>
   </tr>
