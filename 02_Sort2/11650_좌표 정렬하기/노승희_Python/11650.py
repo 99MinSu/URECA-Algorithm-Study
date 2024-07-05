@@ -10,5 +10,6 @@ for i in range(N):
   arr.append([x, y])
 
 arr.sort()
+
 for i in arr:
   print(i[0], i[1])
