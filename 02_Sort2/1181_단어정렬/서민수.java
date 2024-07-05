@@ -17,9 +17,9 @@ public class Main {
         
         List<String> list = new ArrayList<>(set);//리스트에 중복제거한 Hash값 복사
         
-        Collections.sort(list, new Comparator<String>() {//사전순 정렬
+        Collections.sort(list, new Comparator<String>() {//길이순 정렬
             public int compare(String s1, String s2) {
-                if (s1.length() == s2.length()) {
+                if (s1.length() == s2.length()) {//길이가 같을시 사전순
                     return s1.compareTo(s2);
                 } else {
                     return s1.length() - s2.length();
