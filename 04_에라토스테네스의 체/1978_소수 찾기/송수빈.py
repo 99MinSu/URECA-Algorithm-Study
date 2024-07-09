@@ -12,3 +12,4 @@ for num in numbers:
 print(cnt)
 
 	
+#언어 : Python , (성공/실패) : 1/0 , 메모리 : 31120 KB , 시간 :44ms
