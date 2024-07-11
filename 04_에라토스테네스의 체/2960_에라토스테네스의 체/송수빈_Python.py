@@ -10,4 +10,3 @@ for i in range(2, N + 1):
             count += 1  # 지운 횟수를 +1 해줌
             if count == K:  
                 print(j)  
-                break  
