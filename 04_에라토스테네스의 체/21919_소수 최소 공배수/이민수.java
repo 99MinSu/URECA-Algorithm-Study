@@ -13,7 +13,7 @@ public class Main {
 
 		boolean arr[] = new boolean[1000001];
 		
-		for (int i = 2; i < 500001; i++) {
+		for (int i = 2; i * i< 500001; i++) {
 			if (!arr[i]) {
 				for (int j = i + i; j < 1000001; j += i) {
 					arr[j] = true;
