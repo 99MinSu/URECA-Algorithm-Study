@@ -9,11 +9,11 @@ cnt = 0
 for num in number:
   if num == 1: continue
 
-  for j in range(2, num):
+  for j in range(2, int(num ** 0.5) + 1):
     if num % j == 0: # 약수가 존재하면 소수가 아님
       break
   
   else: # 소수일 때 
-    cnt += 1 
+    cnt += 1
   
 print(cnt)
