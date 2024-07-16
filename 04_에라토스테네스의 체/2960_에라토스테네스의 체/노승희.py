@@ -9,7 +9,7 @@ def isPrime(N, K):
     for i in range(2, N + 1):
         if not num[i]:
             # i의 배수들을 소수가 아니라고 표시
-            for j in range(i, N + 1, i): 
+            for j in range(i, N + 1, i):
                 if not num[j]:
                     num[j] = True # 소수가 아니므로 True로 설정
                     num_cnt.append(j) # 지워진 숫자를 리스트에 추가
