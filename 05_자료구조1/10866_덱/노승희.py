@@ -1,4 +1,4 @@
-# 언어 : Python , (성공/실패) : 1/0, 메모리 : 175116 KB , 시간 : 1384 ms
+# 언어 : Python , (성공/실패) : 1/0, 메모리 : 34060 KB , 시간 : 64 ms
 import sys
 from collections import deque
 
